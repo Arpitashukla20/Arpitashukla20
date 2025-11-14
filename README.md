@@ -58,20 +58,7 @@ CGPA: **7.4**
 
 ---
 
-<p align="center">
- # 🚀 Skills 
-<!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Java-FE73B4?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFBDE6?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFC8DD?style=for-the-badge&logo=javascript&logoColor=323330" />
-  <!-- Web Basics --> 
-  <img src="https://img.shields.io/badge/HTML5-FCCDE5?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-FAB3E0?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-FE73B4?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate/JPA-FFBDE6?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-FCCDE5?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-FAB3E0?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/DBMS-FFC8DD?style=for-the-badge&logo=databricks&logoColor=white" /> 
-  <!-- Other Skills -->
-  <img src="https://img.shields.io/badge/Software%20Engineering-FE73B4?style=for-the-badge&logo=gradle&logoColor=white" /> </p>
-
----
+<p align="center"> <!-- Programming Languages --> <img src="https://img.shields.io/badge/Java-FE73B4?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFBDE6?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFC8DD?style=for-the-badge&logo=javascript&logoColor=323330" /> <br/> <!-- Web Basics --> <img src="https://img.shields.io/badge/HTML5-FCCDE5?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-FAB3E0?style=for-the-badge&logo=css3&logoColor=white" /> <br/> <!-- Backend --> <img src="https://img.shields.io/badge/Spring%20Boot-FE73B4?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate/JPA-FFBDE6?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-FCCDE5?style=for-the-badge&logo=fastapi&logoColor=white" /> <br/> <!-- Database --> <img src="https://img.shields.io/badge/MySQL-FAB3E0?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/DBMS-FFC8DD?style=for-the-badge&logo=databricks&logoColor=white" /> <br/> <!-- Other Skills --> <img src="https://img.shields.io/badge/Software%20Engineering-FE73B4?style=for-the-badge&logo=gradle&logoColor=white" /> </p>
 
 # 🚀 Projects  
 
