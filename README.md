@@ -29,10 +29,7 @@ Eager to contribute to a dynamic team, grow professionally, and build innovative
 
 ### **Associate Analyst – GlobalLogic**  
 📅 *May 2024 – Present*  
-- Contributed to Java application development using **Core Java, JDBC, Spring Boot**.  
-- Assisted in building **REST APIs** and integrating **MySQL database** modules.  
-- Participated in **debugging, unit testing, and code reviews** for performance improvement.  
-- Worked in an **Agile environment** with sprint planning & daily standups.
+
 
 ---
 
@@ -41,6 +38,10 @@ Eager to contribute to a dynamic team, grow professionally, and build innovative
 - Completed intensive training in **Java & Backend Development**.  
 - Hands-on experience with **Spring Boot, Hibernate, REST APIs, Maven**.  
 - Developed multiple mini-projects simulating real-world business use cases.
+- Contributed to Java application development using **Core Java, JDBC, Spring Boot**.  
+- Assisted in building **REST APIs** and integrating **MySQL database** modules.  
+- Participated in **debugging, unit testing, and code reviews** for performance improvement.  
+- Worked in an **Agile environment** with sprint planning & daily standups.
 
 ---
 
